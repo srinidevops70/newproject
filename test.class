@@ -1,5 +1,6 @@
 class srini{
 	public static void main(String[] args){
 		System.out.println("This is the first program here");
+		System.out.println("second line added now to the program");
 }
 {
